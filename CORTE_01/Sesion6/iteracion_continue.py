@@ -1,4 +1,4 @@
-#jflajdlka
+#programa con while 
 
 n=int(input('Ingrese un numero:\n'))
 
