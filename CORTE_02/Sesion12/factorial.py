@@ -1,3 +1,4 @@
+#codigo para saber si el numero es factorial
 
 def factorial(x):
     if x>0:
