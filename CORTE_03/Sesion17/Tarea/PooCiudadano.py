@@ -1,5 +1,21 @@
 #¿Es mayor de edad o no?
 
+#   constructor 
+#----------------
+#   Ciudadano   
+#----------------
+#------nombre: str 
+#-----cedula: int 
+#-------edad: int   
+#----------------
+# + setNombre(nombre: str)
+# + setCedula(cedula: int)
+# + setEdad(edad: int) 
+# + getNombre(): str            
+# + getCedula(): int            
+# + getEdad(): int              
+# + esMayorDeEdad()      
+#
 class Ciudadano():
     def _init_(self):
         self.__nombre = None
